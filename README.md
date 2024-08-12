@@ -20,7 +20,7 @@ Then create a json config file (e.g. config.json) and enter the proper values. *
     "port": 22,
     "username": "",
     "password": "",
-    "key_path": " ",
+    "key_path": "",
     "key_passphrase": "",
     "disable_rsa2": false
 }
